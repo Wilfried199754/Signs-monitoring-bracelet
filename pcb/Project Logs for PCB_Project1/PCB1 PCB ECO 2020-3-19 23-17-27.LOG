@@ -1,0 +1,10 @@
+Added Component: Designator=J1(XH-4)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=VCC Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=DIN Pin=J1-3
+Added Pin To Net: NetName=DIN Pin=U3-10
+Added Net: Name=DIN
+Added Member To Class: ClassName=Sheet1 Member=Component J1 CON4
+Added Room: Name=Sheet1
